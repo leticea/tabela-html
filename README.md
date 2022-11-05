@@ -26,7 +26,7 @@ Exemplo de tabela feita em HTML.
 ## 🚀 Como Rodar
 
 - Clone o projeto.
-- Entre no repositório e clice duas vezes no arquivo index.html
+- Entre no repositório e click duas vezes no arquivo index.html
 
 ## 🤔 Como contribuir
 
