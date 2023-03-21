@@ -17,7 +17,7 @@
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
 
 ## 💻 Projeto
 
